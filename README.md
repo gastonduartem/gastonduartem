@@ -1,8 +1,6 @@
 ![Header](./github-header-banner.png)
-<h1 align="center">Hi! I'm Gastón J. Duarte Martino</h1>
+<h1 align="center">Hi 👋, I'm Gastón J. Duarte Martino</h1>
 <h3 align="center">Resilient Developer from Paraguay</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gastonduartem&label=Profile%20views&color=0e75b6&style=flat" alt="gastonduartem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastonduartem" alt="gastonduartem" /></a> </p>
 
