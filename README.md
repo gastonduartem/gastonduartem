@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="center">Hi, I'm Gastón J. Duarte Martino</h1>
 <h3 align="center">Resilient Developer from Paraguay</h3>
 
@@ -10,7 +11,7 @@
 - 📫 How to reach me **gastonduartem2@gmail.com**
 
 - ⚡ Fun fact **Ideas into code, code into impact**
-![Header](./github-header-banner.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gastonduartem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gastonduartem" height="30" width="40" /></a>
