@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gastón J. Duarte Martino</h1>
+<h1 align="center">Hi, I'm Gastón J. Duarte Martino</h1>
 <h3 align="center">Resilient Developer from Paraguay</h3>
 
 - 🔭 I’m currently working on **Penguin Academy CodePro Bootcamp**
