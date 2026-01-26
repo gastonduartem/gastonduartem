@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastonduartem" alt="gastonduartem" /></a> </p>
 
-- 🔭 I’m currently working on **Penguin Academy CodePro Bootcamp**
+- 🔭 I’m currently working on **Kemsa CISA**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Software Development and Cloud**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **gastonduartem2@gmail.com**
+- 📫 How to reach me **gastonduarte.dev@gmail.com**
 
 - ⚡ Fun fact **Ideas into code, code into impact**
 
