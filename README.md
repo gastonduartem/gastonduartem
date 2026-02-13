@@ -46,10 +46,4 @@ Currently growing toward high-impact system design and remote-first engineering 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gastonduartem&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonduartem&layout=compact&theme=tokyonight" />
-</p>
 
