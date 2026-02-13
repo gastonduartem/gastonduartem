@@ -42,7 +42,7 @@ Currently growing toward high-impact system design and remote-first engineering 
 ## 📫 Contact
 
 - 📧 gastonduarte.dev@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gaston-duarte-a15b8a1b2  
+- 💼 LinkedIn: https://www.linkedin.com/in/gaston-duarte-dev
 
 ---
 
