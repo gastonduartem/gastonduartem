@@ -8,7 +8,7 @@ I build systems that solve real business problems.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Software Development Analyst focused on scalable backend architecture and production-ready systems.
 
@@ -20,7 +20,7 @@ Currently growing toward high-impact system design and remote-first engineering 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,ts,js,python,postgres,docker,git,linux" />
@@ -28,21 +28,21 @@ Currently growing toward high-impact system design and remote-first engineering 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-- 🏆 **Truco Tournament Platform** – Match scheduling and bracket management  
-- 🏢 **Small Business ERP System** – Internal operations & business logic  
-- 🛒 **Full-Stack E-Commerce Platform** – Scalable catalog & order workflows  
-- 🏅 **Intercollegiate Sports Platform** – Registration & competition tracking  
+- **Truco Tournament Platform** – Match scheduling and bracket management  
+- **Small Business ERP System** – Internal operations & business logic  
+- **Full-Stack E-Commerce Platform** – Scalable catalog & order workflows  
+- **Intercollegiate Sports Platform** – Registration & competition tracking  
 
-🌐 Portfolio: https://gastonduarte-portfolio.netlify.app/
+Portfolio: https://gastonduarte-portfolio.netlify.app/
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 gastonduarte.dev@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gaston-duarte-dev
+- Email: gastonduarte.dev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/gaston-duarte-dev
 
 ---
 
