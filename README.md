@@ -1,9 +1,9 @@
 <!-- Header -->
 <h1 align="center">Gastón J. Duarte Martino</h1>
-<h3 align="center">Full-Stack Developer • Backend-Focused • Remote Ready</h3>
+<h3 align="center">Full-Stack Developer | Scalable Web Applications</h3>
 
 <p align="center">
-I build systems that solve real business problems.
+Building with intent.
 </p>
 
 ---
